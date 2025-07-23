@@ -2,10 +2,6 @@ from mcp.server.fastmcp import FastMCP
 import httpx
 import logging
 
-# import resend
-
-# import os
-
 
 mcp = FastMCP("events-planner-mcp")
 
